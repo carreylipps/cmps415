@@ -1,10 +1,10 @@
 {
-  "name": "ckMongoTest",
+  "name": "MongoTest",
   "version": "1.0.0",
-  "description": "CKs Express Mongo Test on Render",
+  "description": "Carrey's database",
   "main": "testmongo.js",
-  "repository": "https://github.com/ckorpio/MongoTest",
-  "author": "CK",
+  "repository": "https://github.com/carreylipps/cmps415",
+  "author": "carreylipps",
   "license": "MIT",
   "private": false,
   "scripts": {
